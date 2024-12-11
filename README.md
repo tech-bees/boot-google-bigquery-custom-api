@@ -1,2 +1,2 @@
-# boot-google-bigquery-custom-api
-Spring boot 3 rest api for access bigquery
+# spring-boot-google-bigquery-demo-api
+Spring boot project for access google bigquery
