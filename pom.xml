@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example.bigquery</groupId>
-	<artifactId>spring-boot-google-bigquery-api</artifactId>
+	<artifactId>boot-google-bigquery-custom-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-boot-google-bigquery-api</name>
+	<name>boot-google-bigquery-custom-api</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>

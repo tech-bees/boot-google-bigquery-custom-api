@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: boot-google-bigquery-custom-api
+# Google config
+google:
+  cloud:
+    credentials:
+      location: xxxxxxxxxxxxxxxxx
+    project-id: xxxxxxxxxxxxxxxx
+    dataset-id:
+      person: xxxxxxxxxx
+      department: xxxxxx
